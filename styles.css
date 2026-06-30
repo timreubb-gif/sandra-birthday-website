@@ -437,3 +437,12 @@ body {
     padding: 40px 15px;
   }
 }
+
+footer {
+    font-size: 13px;        
+    font-style: italic;       
+    color: #707585;           
+    text-align: center;
+    padding: 30px 0;
+}
+
